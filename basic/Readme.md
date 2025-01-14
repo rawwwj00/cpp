@@ -1,5 +1,5 @@
 Programs in this directory mostly focuses on:
-_concept building_
+\n_concept building_
 _understanding workflow of C++_
 _types of operations and manipulations done in C++_
 
